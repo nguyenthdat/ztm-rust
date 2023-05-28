@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "BitByteLabSonarQube",
+        "projectKey": "ztm-rust"
+    }
+}
